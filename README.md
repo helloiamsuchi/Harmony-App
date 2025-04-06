@@ -1,16 +1,12 @@
-# harmony_app
+# Harmony-App
+This is a project for GDG on Campus Solution Challenge 2025.
 
-A new Flutter project.
+## 📚 Documentation
 
-## Getting Started
+> 💡 This document contains Making of Harmony, Development Process, feature breakdowns, roadmap followed, and MVP details.
 
-This project is a starting point for a Flutter application.
+[![Open in Google Docs](https://img.shields.io/badge/Open-Google%20Docs-blue?logo=google-docs&style=for-the-badge)](https://docs.google.com/document/d/1wAtPc3k3il7Axd4FrP2qdVl5NArHcVqi_Wd8qwyA8Tc/edit?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> 📍This is the MVP link to the app Harmony
+> 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=web)](https://helloiamsuchi.github.io/)
